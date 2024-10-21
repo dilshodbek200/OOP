@@ -12,3 +12,4 @@ C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\refint\OOPPROJECT.dll
 C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.pdb
 C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.genruntimeconfig.cache
 C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\ref\OOPPROJECT.dll
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.sourcelink.json
