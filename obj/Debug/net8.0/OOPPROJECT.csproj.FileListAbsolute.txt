@@ -1,0 +1,14 @@
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.AssemblyInfoInputs.cache
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.AssemblyInfo.cs
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.csproj.CoreCompileInputs.cache
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\OOPPROJECT.exe
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\OOPPROJECT.deps.json
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\OOPPROJECT.runtimeconfig.json
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\OOPPROJECT.dll
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\OOPPROJECT.pdb
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.dll
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\refint\OOPPROJECT.dll
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.pdb
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.genruntimeconfig.cache
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\ref\OOPPROJECT.dll
