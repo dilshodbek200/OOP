@@ -13,3 +13,10 @@ C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.pdb
 C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.genruntimeconfig.cache
 C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\ref\OOPPROJECT.dll
 C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.sourcelink.json
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\Spectre.Console.dll
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\Spectre.Console.Cli.dll
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\de\Spectre.Console.Cli.resources.dll
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\fr\Spectre.Console.Cli.resources.dll
+C:\Users\hp\PROECTS\OOPPROJECT\bin\Debug\net8.0\sv\Spectre.Console.Cli.resources.dll
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.csproj.AssemblyReference.cache
+C:\Users\hp\PROECTS\OOPPROJECT\obj\Debug\net8.0\OOPPROJECT.csproj.Up2Date

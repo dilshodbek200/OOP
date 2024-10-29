@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\PROECTS\\OOPPROJECT\\OOPPROJECT.csproj": {}
+    "C:\\Users\\hp\\Proects\\OOPPROJECT\\OOPPROJECT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\PROECTS\\OOPPROJECT\\OOPPROJECT.csproj": {
+    "C:\\Users\\hp\\Proects\\OOPPROJECT\\OOPPROJECT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\PROECTS\\OOPPROJECT\\OOPPROJECT.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Proects\\OOPPROJECT\\OOPPROJECT.csproj",
         "projectName": "OOPPROJECT",
-        "projectPath": "C:\\Users\\hp\\PROECTS\\OOPPROJECT\\OOPPROJECT.csproj",
+        "projectPath": "C:\\Users\\hp\\Proects\\OOPPROJECT\\OOPPROJECT.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\PROECTS\\OOPPROJECT\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Proects\\OOPPROJECT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,6 +42,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Spectre.Console": {
+              "target": "Package",
+              "version": "[0.49.1, )"
+            },
+            "Spectre.Console.Cli": {
+              "target": "Package",
+              "version": "[0.49.1, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
